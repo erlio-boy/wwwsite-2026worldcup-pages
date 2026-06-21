@@ -1,2 +1,14 @@
 # wwwsite-2026worldcup-pages
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件列表
+
+- README：仓库说明
+- HTML：页面发布文件
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
